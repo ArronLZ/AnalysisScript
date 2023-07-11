@@ -1,0 +1,58 @@
+PATHWAY	Ontology	DEG	RichFactor	Pvalue	Qvalue
+DNA replication	biological_process	38	1.514718784	0.018884987	0.178171803
+epithelial cell migration	biological_process	26	1.514201108	0.048083039	0.327172815
+response to hypoxia	biological_process	35	1.509161238	0.02488342	0.215848559
+negative regulation of cell differentiation	biological_process	71	1.508956883	0.001790998	0.036090905
+regulation of protein kinase activity	biological_process	90	1.508758257	0.000467919	0.013275714
+response to other organism	biological_process	90	1.508758257	0.000467919	0.013275714
+synaptic transmission	biological_process	87	1.50633104	0.000604722	0.015684856
+cellular response to growth factor stimulus	biological_process	94	1.505465333	0.00037743	0.011278426
+positive regulation of cytosolic calcium ion concentration	biological_process	28	1.503739102	0.044138153	0.311663739
+adaptive immune response	biological_process	31	1.579719426	0.019832001	0.183364345
+cellular response to transforming growth factor beta stimulus	biological_process	30	1.503139046	0.03807465	0.282291201
+response to peptide	biological_process	62	1.50286821	0.00371281	0.061819867
+G1/S transition of mitotic cell cycle	biological_process	32	1.50261439	0.032875639	0.264181646
+negative regulation of cell proliferation	biological_process	80	1.501042618	0.001082579	0.024448232
+regulation of ion transmembrane transport	biological_process	49	1.49988994	0.009720921	0.11419539
+regulation of cell activation	biological_process	56	1.499250328	0.005952588	0.084290794
+neuron development	biological_process	121	1.494788274	7.67E-05	0.003091726
+cell-cell adhesion	biological_process	103	1.494788274	0.000255152	0.008496762
+cytokine production	biological_process	72	1.494788274	0.002082066	0.040105291
+RNA polymerase II regulatory region sequence-specific DNA binding	molecular_function	58	1.494788274	0.005474182	0.081945898
+organic anion transport	biological_process	46	1.494788274	0.012720105	0.138650909
+response to transforming growth factor beta	biological_process	30	1.494788274	0.040459974	0.294148877
+regulation of T cell activation	biological_process	34	1.487496624	0.03198241	0.258324521
+aging	biological_process	33	1.487276775	0.03441851	0.270224844
+chemoattractant activity	molecular_function	6	4.484364821	0.003455817	0.059822165
+signaling pattern recognition receptor activity	molecular_function	5	4.484364821	0.006699251	0.091405228
+retinoic acid binding	molecular_function	6	4.139413681	0.004859333	0.074881374
+peptidyl-proline dioxygenase activity	molecular_function	5	4.076695292	0.009482012	0.113250963
+metalloendopeptidase inhibitor activity	molecular_function	5	4.076695292	0.009482012	0.113250963
+hyaluronic acid binding	molecular_function	8	3.986102063	0.001784925	0.03624735
+proteoglycan binding	molecular_function	8	3.986102063	0.001784925	0.03624735
+histone kinase activity	molecular_function	6	3.843741275	0.006663226	0.092194175
+extracellular matrix structural constituent	molecular_function	23	3.750559668	9.63E-07	7.97E-05
+zinc ion transmembrane transporter activity	molecular_function	5	3.736970684	0.013028796	0.140457217
+growth factor binding	molecular_function	33	3.699600977	7.60E-09	1.42E-06
+fibrinogen complex	cellular_component	4	5.979153094	0.005579348	0.082266599
+basal lamina	cellular_component	7	4.484364821	0.001794414	0.036067256
+interstitial matrix	cellular_component	5	4.484364821	0.006699251	0.091405228
+lamellipodium membrane	cellular_component	6	4.139413681	0.004859333	0.074881374
+MHC class I protein complex	cellular_component	5	4.076695292	0.009482012	0.113250963
+fibril	cellular_component	4	3.986102063	0.01870487	0.179489103
+spindle midzone	cellular_component	7	3.693006323	0.004613882	0.072666324
+collagen trimer	cellular_component	27	3.669025763	1.78E-07	1.89E-05
+condensed chromosome outer kinetochore	cellular_component	4	3.261356233	0.034439847	0.270122516
+filopodium membrane	cellular_component	5	3.203117729	0.02284185	0.205393703
+basement membrane	cellular_component	22	3.131937335	1.82E-05	0.000989126
+proteinaceous extracellular matrix	cellular_component	88	3.023939496	3.04E-16	5.97E-13
+platelet alpha granule lumen	cellular_component	11	2.989576547	0.002510647	0.047091107
+stress fiber	cellular_component	13	2.989576547	0.001131687	0.025053326
+endoplasmic reticulum lumen	cellular_component	46	2.989576547	3.61E-09	7.46E-07
+actin filament bundle	cellular_component	14	2.989576547	0.000761858	0.018828431
+actomyosin	cellular_component	15	2.862360524	0.000764425	0.018832646
+extracellular matrix	cellular_component	93	2.780306189	3.40E-15	3.34E-12
+platelet alpha granule	cellular_component	13	2.776035365	0.002049433	0.039769125
+acetylcholine-gated channel complex	cellular_component	4	2.759609121	0.057073618	0.363485871
+"condensed nuclear chromosome, centromeric region"	cellular_component	4	2.759609121	0.057073618	0.363485871
+costamere	cellular_component	4	2.759609121	0.057073618	0.363485871
