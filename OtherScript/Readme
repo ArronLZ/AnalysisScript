@@ -1,1 +1,2 @@
-# script
+## 说明
+pdf_to_png.py 在win上需要安装[poppler]:
