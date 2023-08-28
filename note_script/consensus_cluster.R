@@ -15,3 +15,15 @@ results <- ConsensusClusterPlus(
   eset.age, maxK=7, reps=1000, pItem=0.8, pFeature=1, 
   clusterAlg="hc", distance="pearson", seed=12345, 
   plot="pdf", writeTable = TRUE, title = "consensus_cluster")
+icl <- calcICL(results, title = "consensus_cluster", plot = "pdf")
+
+# 结果位于当前工作目录下的(title参数)文件夹下（consensus_cluster）
+# 主要结果为consensus.pdf这个文件，主要辅助结果为icl.pdf文件中
+
+# 取合适的k值后，获取分型，k = 3的分型
+class <- results[[3]]$consensusClass
+
+# 辅助
+icl[["clusterConsensus"]]
+dim(icl[["itemConsensus"]])
+icl[["itemConsensus"]][1:5,]
