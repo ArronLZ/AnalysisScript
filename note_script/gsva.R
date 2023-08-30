@@ -18,7 +18,6 @@ library(clusterProfiler)
 #.....                                                                           .......
 #MITOTIC_SPINDLE_ELONGATION                           KIF4A
 #MITOTIC_SPINDLE_ELONGATION                           KIF4B
-
 msigdbGMTtoGSVAset <- function(gmt, rename = T) {
   gmt.l <- pivot_wider(gmt, names_from = "term", values_from = "gene") %>% 
     apply(., 2, function(x) x[[1]])
@@ -43,7 +42,6 @@ eset %>% range()
 eset.os <- read.csv("new/consensus_cluster/eset_os&class.csv", row.names = 1)
 eset <- eset %>% dplyr::select(rownames(eset.os))
 eset <- as.matrix(eset)  # 需要为matrix
-
 
 # 基因集需要是 matrix 和 list对象。
 # 默认情况下，kcdf="Gaussian"，适用于输入表达式值连续的情况，
